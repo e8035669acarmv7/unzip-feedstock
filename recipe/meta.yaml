@@ -36,6 +36,7 @@ source:
     - patches/25-cve-2019-13232-fix-bug-in-uzbunzip2.patch
     - patches/26-cve-2019-13232-fix-bug-in-uzinflate.patch
     - patches/27-zipgrep-avoid-test-errors.patch
+    - patches/28-13f0260beae851f7d5dd96e9ef757d8d6d7daac1.patch
 
 
 build:
